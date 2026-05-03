@@ -26,15 +26,16 @@ A transistor is used as a switch:
 
 ### Schematic
 
-![Schematic](schematic.png)
+<img width="1046" height="574" alt="image" src="https://github.com/user-attachments/assets/73d4074d-8692-4b5c-953d-38b70955c16c" />
 
 ### PCB Layout
 
-![PCB](pcb.png)
+<img width="1178" height="674" alt="image" src="https://github.com/user-attachments/assets/98dd2e1a-2b8d-4483-b3e3-db18472e2de1" />
 
 ### 3D View
 
-![3D](3d.png)
+<img width="932" height="296" alt="image" src="https://github.com/user-attachments/assets/ddd3df28-4423-4bd6-9dd7-8f2708f9dfaa" />
+
 
 ##  Tool
 
